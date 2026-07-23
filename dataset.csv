@@ -1,0 +1,304 @@
+order_id,customer_id,date,product,category,price,quantity,discount,total_value,payment_method,channel,status,customer_type,gender,city,state,region,shipping_days,rating,is_returning
+ORD100056,CUST1069,2025-01-01,Teclado Mecânico,Eletrônicos,327.39,2,0.0,654.78,Cartão de Crédito,Site,Cancelado,Recorrente,,Rio de Janeiro,RJ,Sudeste,14,4.0,False
+ORD100017,CUST1059,2025-01-02,Cadeira Office,Móveis,841.49,1,0.1,757.34,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Feminino,Fortaleza,CE,Nordeste,5,5.0,True
+ORD100251,CUST1017,2025-01-03,Monitor 27,Eletrônicos,1534.5,2,0.15,2608.65,Cartão de Débito,Aplicativo,Em transporte,Recorrente,Feminino,Porto Alegre,RS,Sul,12,5.0,True
+ORD100063,CUST1074,2025-01-04,Fone Bluetooth,Eletrônicos,274.86,2,0.1,494.75,Boleto,Aplicativo,Entregue,Recorrente,Feminino,Salvador,BA,Nordeste,14,3.0,False
+ORD100040,CUST1193,2025-01-05,Chocolate,Alimentos,26.61,1,0.0,26.61,Cartão de Crédito,Site,Entregue,Recorrente,Não informado,Salvador,BA,Nordeste,8,4.0,False
+ORD100047,CUST1108,2025-01-05,Teclado Mecânico,Eletrônicos,380.29,1,0.0,380.29,Boleto,Site,Entregue,Recorrente,Feminino,Recife,PE,Nordeste,2,5.0,True
+ORD100172,CUST1010,2025-01-10,Smartphone X,Eletrônicos,3035.37,2,,5160.13,Boleto,Site,Em transporte,Recorrente,Masculino,Curitiba,PR,Sul,7,3.0,False
+ORD100277,CUST1138,2025-01-10,Cadeira Office,Móveis,858.42,1,0.05,815.5,Pix,Site,Entregue,Novo,Não informado,Fortaleza,CE,Nordeste,9,3.0,False
+ORD100164,CUST1064,2025-01-13,Teclado Mecânico,Eletrônicos,328.28,4,0.0,1313.12,Cartão de Crédito,Aplicativo,Cancelado,Recorrente,Feminino,Fortaleza,CE,Nordeste,5,3.0,True
+ORD100128,CUST1171,2025-01-14,Notebook Pro 15,Eletrônicos,4543.59,1,0.1,4089.23,Pix,Aplicativo,Entregue,Recorrente,Feminino,Belo Horizonte,MG,Sudeste,5,2.0,False
+ORD100276,CUST1038,2025-01-16,Chocolate,Alimentos,27.5,3,0.05,78.38,Cartão de Débito,Aplicativo,Em transporte,Novo,Masculino,Recife,PE,Nordeste,5,3.0,False
+ORD100092,CUST1039,2025-01-17,Smartphone X,Eletrônicos,2579.7,1,0.0,2579.7,Cartão de Crédito,Site,Entregue,Novo,Não informado,Recife,PE,Nordeste,8,4.0,True
+ORD100126,CUST1107,2025-01-20,Livro,Livros,71.8,2,0.1,129.24,Cartão de Débito,Aplicativo,Em transporte,Novo,Não informado,Fortaleza,CE,Nordeste,9,4.0,False
+ORD100020,CUST1175,2025-01-22,Monitor 27,Eletrônicos,1650.44,4,0.05,6271.67,Pix,Aplicativo,Entregue,Recorrente,Masculino,Salvador,BA,Nordeste,13,4.0,False
+ORD100224,CUST1062,2025-01-23,Jaqueta,Roupas,300.02,1,0.05,285.02,Cartão de Débito,Marketplace,Entregue,Recorrente,Masculino,Rio de Janeiro,RJ,Sudeste,11,5.0,False
+ORD100248,CUST1160,2025-01-24,Tênis Esportivo,Roupas,408.54,2,0.15,694.52,Cartão de Débito,Marketplace,Cancelado,Novo,Não informado,Porto Alegre,RS,Sul,9,4.0,True
+ORD100159,CUST1116,2025-01-25,Monitor 27,Eletrônicos,1704.06,1,0.0,1704.06,Boleto,Site,Cancelado,Recorrente,Feminino,Belo Horizonte,MG,Sudeste,15,4.0,False
+ORD100212,CUST1146,2025-01-26,Jaqueta,Roupas,295.34,2,0.2,472.54,Cartão de Débito,Site,Entregue,Recorrente,Feminino,Curitiba,PR,Sul,3,4.0,False
+ORD100059,CUST1118,2025-01-28,Camiseta,Roupas,90.59,1,0.2,72.47,Pix,Marketplace,Entregue,Novo,Feminino,Rio de Janeiro,RJ,Sudeste,7,3.0,False
+ORD100087,CUST1153,2025-01-29,Mochila,Acessórios,226.38,1,0.2,181.1,Cartão de Crédito,Aplicativo,Em transporte,Recorrente,Feminino,Porto Alegre,RS,Sul,11,5.0,False
+ORD100250,CUST1099,2025-01-31,Mochila,Acessórios,216.33,1,0.15,183.88,Pix,Site,Cancelado,Novo,Masculino,Porto Alegre,RS,Sul,11,5.0,False
+ORD100255,CUST1152,2025-02-02,Camiseta,Roupas,85.78,1,0.15,72.91,Boleto,Aplicativo,Cancelado,Recorrente,Feminino,Recife,PE,Nordeste,14,5.0,False
+ORD100084,CUST1146,2025-02-05,Cadeira Office,Móveis,814.78,4,0.15,2770.25,Cartão de Crédito,Aplicativo,Cancelado,Recorrente,Feminino,São Paulo,SP,Sudeste,15,5.0,True
+ORD100205,CUST1141,2025-02-08,Mouse Gamer,Eletrônicos,172.94,1,0.0,172.94,Cartão de Crédito,Marketplace,Em transporte,Recorrente,Feminino,Brasília,DF,Centro-Oeste,15,,False
+ORD100221,CUST1120,2025-02-08,Café Especial,Alimentos,41.75,3,0.0,125.25,Cartão de Débito,Marketplace,Entregue,Recorrente,Masculino,Fortaleza,CE,Nordeste,11,5.0,False
+ORD100144,CUST1073,2025-02-08,Tênis Esportivo,Roupas,351.36,3,0.05,1001.38,Cartão de Crédito,Marketplace,Em transporte,Recorrente,Não informado,Recife,PE,Nordeste,8,5.0,True
+ORD100105,CUST1008,2025-02-09,Jaqueta,Roupas,299.72,1,0.0,299.72,Cartão de Crédito,Site,Entregue,Recorrente,Não informado,Recife,PE,Nordeste,2,,False
+ORD100220,CUST1142,2025-02-10,Fone Bluetooth,Eletrônicos,228.55,2,0.0,457.1,Boleto,Aplicativo,Entregue,Recorrente,Feminino,Salvador,BA,Nordeste,9,5.0,False
+ORD100166,CUST1165,2025-02-11,Smartphone X,Eletrônicos,2863.89,1,0.0,2863.89,Cartão de Crédito,Aplicativo,Cancelado,Novo,Feminino,Salvador,BA,Nordeste,9,3.0,False
+ORD100282,CUST1079,2025-02-12,Camiseta,Roupas,90.95,2,0.2,145.52,Pix,Site,Em transporte,Recorrente,Não informado,Curitiba,PR,Sul,4,5.0,True
+ORD100265,CUST1085,2025-02-13,Cadeira Office,Móveis,911.72,1,0.1,820.55,Cartão de Crédito,Site,Cancelado,Recorrente,Feminino,São Paulo,SP,Sudeste,12,5.0,True
+ORD100240,CUST1033,2025-02-14,Mouse Gamer,Eletrônicos,191.1,1,0.2,152.88,Cartão de Crédito,Marketplace,Cancelado,Recorrente,Masculino,Belo Horizonte,MG,Sudeste,2,2.0,False
+ORD100010,CUST1169,2025-02-14,Monitor 27,Eletrônicos,1491.59,1,0.05,1417.01,Pix,Site,Entregue,Novo,Masculino,Porto Alegre,RS,Sul,12,5.0,True
+ORD100285,CUST1193,2025-02-16,Chocolate,Alimentos,25.89,1,0.05,24.6,Boleto,Site,Entregue,Novo,Masculino,Rio de Janeiro,RJ,Sudeste,7,5.0,True
+ORD100044,CUST1145,2025-02-16,Jaqueta,Roupas,290.94,2,0.05,552.79,Cartão de Crédito,Site,Entregue,Recorrente,Não informado,Brasília,DF,Centro-Oeste,15,5.0,False
+ORD100057,CUST1062,2025-02-17,Café Especial,Alimentos,44.83,1,0.0,44.83,Cartão de Crédito,Site,Entregue,Recorrente,Feminino,Recife,PE,Nordeste,8,5.0,True
+ORD100049,CUST1022,2025-02-22,Notebook Pro 15,Eletrônicos,4617.17,4,0.15,15698.38,Cartão de Crédito,Aplicativo,Cancelado,Recorrente,Não informado,Brasília,DF,Centro-Oeste,1,4.0,True
+ORD100038,CUST1122,2025-02-22,Livro,Livros,71.43,2,0.05,135.72,Boleto,Site,Em transporte,Recorrente,Feminino,Brasília,DF,Centro-Oeste,5,4.0,True
+ORD100292,CUST1026,2025-02-23,Mochila,Acessórios,202.48,3,0.2,485.95,Pix,Marketplace,Entregue,Recorrente,Não informado,Fortaleza,CE,Nordeste,5,5.0,False
+ORD100004,CUST1001,2025-02-23,Livro,Livros,66.62,3,0.0,199.86,Pix,Aplicativo,Em transporte,Novo,Não informado,Belo Horizonte,MG,Sudeste,2,5.0,False
+ORD100002,CUST1107,2025-02-24,Livro,Livros,68.13,2,0.1,122.63,Cartão de Débito,Site,Entregue,Recorrente,Feminino,Fortaleza,CE,Nordeste,3,5.0,False
+ORD100187,CUST1187,2025-02-26,Monitor 27,Eletrônicos,1512.07,1,0.2,1209.66,Boleto,Site,Em transporte,Recorrente,Feminino,Curitiba,PR,Sul,14,4.0,True
+ORD100195,CUST1167,2025-02-27,Mouse Gamer,Eletrônicos,170.6,2,0.2,272.96,Cartão de Débito,Aplicativo,Entregue,Novo,Não informado,Goiânia,GO,Centro-Oeste,2,,False
+ORD100115,CUST1000,2025-02-27,Monitor 27,Eletrônicos,1581.54,1,0.0,1581.54,Cartão de Débito,Aplicativo,Entregue,Recorrente,Masculino,Curitiba,PR,Sul,13,4.0,False
+ORD100294,CUST1046,2025-03-04,Mesa Escritório,Móveis,1290.59,1,0.15,1097.0,Cartão de Crédito,Site,Em transporte,Recorrente,Feminino,Porto Alegre,RS,Sul,11,4.0,True
+ORD100213,CUST1172,2025-03-08,Fone Bluetooth,Eletrônicos,230.21,4,0.1,828.76,Pix,Aplicativo,Em transporte,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,11,5.0,False
+ORD100186,CUST1099,2025-03-11,Teclado Mecânico,Eletrônicos,347.07,1,0.15,295.01,Pix,Aplicativo,Cancelado,Recorrente,Não informado,Goiânia,GO,Centro-Oeste,2,5.0,False
+ORD100197,CUST1084,2025-03-13,Tênis Esportivo,Roupas,399.57,2,0.1,719.23,Boleto,Site,Cancelado,Recorrente,Não informado,Salvador,BA,Nordeste,14,4.0,True
+ORD100157,CUST1013,2025-03-14,Mesa Escritório,Móveis,1273.42,3,0.2,3056.21,Boleto,Site,Em transporte,Recorrente,Masculino,Fortaleza,CE,Nordeste,11,5.0,True
+ORD100279,CUST1168,2025-03-14,Tênis Esportivo,Roupas,368.19,2,0.2,589.1,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Feminino,Porto Alegre,RS,Sul,3,,False
+ORD100227,CUST1066,2025-03-16,Livro,Livros,76.61,1,0.15,65.12,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,6,5.0,False
+ORD100119,CUST1144,2025-03-17,Notebook Pro 15,Eletrônicos,4183.63,1,0.05,3974.45,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Não informado,Curitiba,PR,Sul,6,5.0,False
+ORD100088,CUST1152,2025-03-17,Tênis Esportivo,Roupas,347.11,1,0.2,277.69,Boleto,Site,Cancelado,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,5,4.0,True
+ORD100148,CUST1137,2025-03-19,Notebook Pro 15,Eletrônicos,4289.96,2,0.05,8150.92,Cartão de Crédito,Site,Entregue,Novo,Masculino,Curitiba,PR,Sul,9,5.0,True
+ORD100053,CUST1050,2025-03-22,Notebook Pro 15,Eletrônicos,4030.29,4,0.1,14509.04,Cartão de Crédito,Site,Entregue,Recorrente,Masculino,Salvador,BA,Nordeste,8,5.0,False
+ORD100013,CUST1183,2025-03-22,Monitor 27,Eletrônicos,1536.28,1,0.05,1459.47,Boleto,Site,Entregue,Recorrente,Masculino,Porto Alegre,RS,Sul,12,2.0,True
+ORD100290,CUST1064,2025-03-24,Mochila,Acessórios,198.09,1,0.1,178.28,Pix,Site,Em transporte,Recorrente,Feminino,Goiânia,GO,Centro-Oeste,15,4.0,False
+ORD100260,CUST1004,2025-03-25,Livro,Livros,72.66,3,0.0,217.98,Cartão de Débito,Site,Entregue,Recorrente,Masculino,Recife,PE,Nordeste,1,5.0,False
+ORD100140,CUST1002,2025-03-26,Camiseta,Roupas,92.15,3,0.2,221.16,Pix,Aplicativo,Entregue,Recorrente,Feminino,Belo Horizonte,MG,Sudeste,13,4.0,False
+ORD100178,CUST1136,2025-03-27,Teclado Mecânico,Eletrônicos,363.15,1,0.05,344.99,Pix,Aplicativo,Cancelado,Recorrente,Masculino,Porto Alegre,RS,Sul,12,5.0,True
+ORD100168,CUST1068,2025-03-28,Mesa Escritório,Móveis,1096.0,4,0.0,4384.0,Cartão de Crédito,Site,Cancelado,Recorrente,Feminino,São Paulo,SP,Sudeste,7,5.0,True
+ORD100278,CUST1126,2025-03-29,Notebook Pro 15,Eletrônicos,3924.55,4,0.0,15698.2,Pix,Marketplace,Entregue,Recorrente,Não informado,São Paulo,SP,Sudeste,11,5.0,True
+ORD100196,CUST1022,2025-03-30,Mesa Escritório,Móveis,1271.6,1,0.1,1144.44,Boleto,Aplicativo,Em transporte,Recorrente,Não informado,São Paulo,SP,Sudeste,5,5.0,True
+ORD100267,CUST1159,2025-03-30,Mochila,Acessórios,240.01,4,0.05,912.04,Cartão de Crédito,Marketplace,Entregue,Novo,Não informado,Curitiba,PR,Sul,4,3.0,True
+ORD100137,CUST1168,2025-03-30,Chocolate,Alimentos,24.09,1,0.2,19.27,Cartão de Débito,Site,Entregue,Novo,Feminino,Rio de Janeiro,RJ,Sudeste,13,4.0,True
+ORD100296,CUST1119,2025-04-01,Livro,Livros,71.63,3,0.05,204.15,Pix,Marketplace,Entregue,Recorrente,Masculino,Salvador,BA,Nordeste,1,5.0,False
+ORD100298,CUST1078,2025-04-02,Mouse Gamer,Eletrônicos,185.38,2,0.0,370.76,Pix,Aplicativo,Cancelado,Recorrente,Masculino,Fortaleza,CE,Nordeste,11,5.0,True
+ORD100125,CUST1034,2025-04-03,Mouse Gamer,Eletrônicos,185.41,1,0.05,176.14,Pix,Marketplace,Entregue,Recorrente,Feminino,Brasília,DF,Centro-Oeste,7,4.0,False
+ORD100009,CUST1051,2025-04-06,Livro,Livros,64.51,1,0.1,58.06,Cartão de Débito,Aplicativo,Entregue,Novo,Não informado,Fortaleza,CE,Nordeste,7,4.0,False
+ORD100032,CUST1146,2025-04-06,Tênis Esportivo,Roupas,345.44,2,0.1,621.79,Cartão de Crédito,Site,Entregue,Novo,Não informado,Curitiba,PR,Sul,2,1.0,False
+ORD100284,CUST1133,2025-04-07,Notebook Pro 15,Eletrônicos,4076.49,1,0.15,3465.02,Cartão de Crédito,Site,Entregue,Recorrente,Masculino,Brasília,DF,Centro-Oeste,5,2.0,False
+ORD100015,CUST1143,2025-04-07,Mouse Gamer,Eletrônicos,197.4,2,0.1,355.32,Cartão de Crédito,Marketplace,Entregue,Recorrente,Feminino,Salvador,BA,Nordeste,3,5.0,False
+ORD100048,CUST1176,2025-04-08,Teclado Mecânico,Eletrônicos,382.89,4,0.0,1531.56,Cartão de Crédito,Marketplace,Entregue,Recorrente,Feminino,Fortaleza,CE,Nordeste,5,2.0,False
+ORD100103,CUST1008,2025-04-09,Mouse Gamer,Eletrônicos,196.89,2,0.2,315.02,Cartão de Débito,Aplicativo,Entregue,Novo,Feminino,Brasília,DF,Centro-Oeste,11,4.0,False
+ORD100266,CUST1021,2025-04-11,Camiseta,Roupas,84.2,1,0.1,75.78,Boleto,Site,Entregue,Novo,Não informado,Brasília,DF,Centro-Oeste,12,5.0,True
+ORD100096,CUST1115,2025-04-13,Fone Bluetooth,Eletrônicos,272.21,1,0.05,258.6,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Não informado,Salvador,BA,Nordeste,12,3.0,True
+ORD100239,CUST1190,2025-04-14,Jaqueta,Roupas,299.37,4,,1197.48,Boleto,Site,Entregue,Recorrente,Masculino,Recife,PE,Nordeste,14,4.0,False
+ORD100024,CUST1016,2025-04-14,Cadeira Office,Móveis,863.15,4,0.05,3279.97,Cartão de Crédito,Site,Entregue,Recorrente,Masculino,Rio de Janeiro,RJ,Sudeste,7,4.0,False
+ORD100223,CUST1181,2025-04-17,Livro,Livros,63.94,4,0.0,255.76,Pix,Marketplace,Cancelado,Novo,Não informado,Recife,PE,Nordeste,9,4.0,False
+ORD100203,CUST1068,2025-04-18,Fone Bluetooth,Eletrônicos,257.56,1,,244.68,Boleto,Aplicativo,Entregue,Recorrente,Não informado,Rio de Janeiro,RJ,Sudeste,3,2.0,False
+ORD100027,CUST1059,2025-04-18,Livro,Livros,67.57,1,0.1,60.81,Cartão de Crédito,Marketplace,Cancelado,Recorrente,Masculino,Curitiba,PR,Sul,13,3.0,False
+ORD100229,CUST1144,2025-04-19,Jaqueta,Roupas,268.15,1,0.15,227.93,Cartão de Débito,Aplicativo,Em transporte,Recorrente,Feminino,Recife,PE,Nordeste,5,4.0,False
+ORD100207,CUST1082,2025-04-20,Mesa Escritório,Móveis,1311.9,3,0.0,3935.7,Boleto,Marketplace,Entregue,Recorrente,Não informado,Salvador,BA,Nordeste,9,5.0,False
+ORD100253,CUST1162,2025-04-21,Mouse Gamer,Eletrônicos,187.54,1,0.2,150.03,Pix,Site,Entregue,Recorrente,Masculino,Salvador,BA,Nordeste,4,1.0,False
+ORD100231,CUST1140,2025-04-21,Teclado Mecânico,Eletrônicos,326.57,2,0.05,620.48,Pix,Marketplace,Cancelado,Recorrente,,Porto Alegre,RS,Sul,13,5.0,False
+ORD100241,CUST1183,2025-04-21,Tênis Esportivo,Roupas,347.54,2,0.0,695.08,Boleto,Aplicativo,Cancelado,Recorrente,Não informado,Curitiba,PR,Sul,8,4.0,True
+ORD100170,CUST1037,2025-04-21,Teclado Mecânico,Eletrônicos,368.51,3,0.2,884.42,Cartão de Débito,Site,Entregue,Recorrente,Feminino,Brasília,DF,Centro-Oeste,9,4.0,True
+ORD100051,CUST1056,2025-04-22,Fone Bluetooth,Eletrônicos,252.6,2,0.0,505.2,Boleto,Marketplace,Cancelado,Recorrente,Não informado,Rio de Janeiro,RJ,Sudeste,5,5.0,False
+ORD100018,CUST1151,2025-04-26,Mochila,Acessórios,235.68,1,0.05,223.9,Boleto,Site,Entregue,Recorrente,Masculino,Belo Horizonte,MG,Sudeste,8,5.0,True
+ORD100252,CUST1048,2025-04-28,Monitor 27,Eletrônicos,1557.69,2,0.05,2959.61,Pix,Aplicativo,Entregue,Novo,Não informado,Brasília,DF,Centro-Oeste,5,5.0,True
+ORD100176,CUST1190,2025-04-28,Mesa Escritório,Móveis,1221.68,1,0.15,1038.43,Boleto,Marketplace,Entregue,Novo,Masculino,Curitiba,PR,Sul,7,5.0,False
+ORD100244,CUST1011,2025-04-29,Chocolate,Alimentos,26.38,2,0.05,50.12,Boleto,Aplicativo,Entregue,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,8,5.0,True
+ORD100171,CUST1121,2025-04-29,Notebook Pro 15,Eletrônicos,4430.69,3,0.1,11962.86,Pix,Marketplace,Entregue,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,5,3.0,False
+ORD100208,CUST1018,2025-04-30,Chocolate,Alimentos,26.65,1,0.1,23.98,Pix,Site,Em transporte,Novo,Feminino,Recife,PE,Nordeste,14,2.0,False
+ORD100246,CUST1138,2025-05-01,Mouse Gamer,Eletrônicos,164.98,2,0.0,329.96,Cartão de Crédito,Marketplace,Em transporte,Recorrente,Feminino,Brasília,DF,Centro-Oeste,11,5.0,False
+ORD100228,CUST1029,2025-05-02,Fone Bluetooth,Eletrônicos,232.35,3,0.05,662.2,Cartão de Crédito,Site,Cancelado,Recorrente,Feminino,Rio de Janeiro,RJ,Sudeste,3,5.0,False
+ORD100000,CUST1102,2025-05-02,Cadeira Office,Móveis,950.34,2,0.05,1805.65,Boleto,Marketplace,Cancelado,Recorrente,Não informado,Goiânia,GO,Centro-Oeste,8,4.0,True
+ORD100029,CUST1057,2025-05-02,Chocolate,Alimentos,25.94,4,0.0,103.76,Cartão de Crédito,Marketplace,Entregue,Recorrente,Masculino,Porto Alegre,RS,Sul,6,5.0,False
+ORD100204,CUST1147,2025-05-04,Smartphone X,Eletrônicos,2901.73,1,0.1,2611.56,Cartão de Crédito,Marketplace,Entregue,Recorrente,Não informado,Rio de Janeiro,RJ,Sudeste,3,5.0,False
+ORD100146,CUST1120,2025-05-05,Jaqueta,Roupas,288.21,1,0.0,288.21,Pix,Site,Entregue,Recorrente,Não informado,Recife,PE,Nordeste,5,4.0,False
+ORD100016,CUST1160,2025-05-08,Fone Bluetooth,Eletrônicos,242.43,1,0.05,230.31,Boleto,Aplicativo,Em transporte,Recorrente,Feminino,Fortaleza,CE,Nordeste,11,4.0,True
+ORD100006,CUST1087,2025-05-09,Jaqueta,Roupas,256.17,2,0.15,435.49,Cartão de Débito,Marketplace,Entregue,Recorrente,Não informado,Recife,PE,Nordeste,1,5.0,False
+ORD100132,CUST1077,2025-05-10,Livro,Livros,64.57,2,0.05,122.68,Cartão de Crédito,Marketplace,Entregue,Novo,Masculino,Curitiba,PR,Sul,13,5.0,True
+ORD100008,CUST1100,2025-05-11,Jaqueta,Roupas,283.43,3,0.05,807.78,Cartão de Crédito,Site,Entregue,Recorrente,Não informado,Salvador,BA,Nordeste,15,4.0,True
+ORD100163,CUST1085,2025-05-13,Café Especial,Alimentos,44.23,4,0.05,168.07,Pix,Marketplace,Cancelado,Recorrente,Masculino,Belo Horizonte,MG,Sudeste,11,4.0,False
+ORD100201,CUST1115,2025-05-14,Chocolate,Alimentos,24.18,1,0.15,20.55,Boleto,Site,Entregue,Recorrente,Masculino,Brasília,DF,Centro-Oeste,15,5.0,True
+ORD100153,CUST1144,2025-05-16,Cadeira Office,Móveis,891.07,3,0.2,2138.57,Cartão de Débito,Marketplace,Em transporte,Recorrente,Masculino,Fortaleza,CE,Nordeste,13,3.0,False
+ORD100143,CUST1034,2025-05-16,Teclado Mecânico,Eletrônicos,380.07,3,0.05,1083.2,Cartão de Débito,Aplicativo,Em transporte,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,2,4.0,False
+ORD100199,CUST1031,2025-05-17,Mesa Escritório,Móveis,1155.16,2,0.05,2194.8,Cartão de Débito,Marketplace,Entregue,Recorrente,Não informado,Brasília,DF,Centro-Oeste,1,4.0,False
+ORD100065,CUST1125,2025-05-19,Notebook Pro 15,Eletrônicos,4022.45,1,0.2,3217.96,Boleto,Site,Cancelado,Recorrente,Não informado,São Paulo,SP,Sudeste,1,4.0,False
+ORD100098,CUST1012,2025-05-21,Chocolate,Alimentos,26.85,4,0.05,102.03,Pix,Marketplace,Entregue,Recorrente,Não informado,Rio de Janeiro,RJ,Sudeste,14,4.0,False
+ORD100190,CUST1119,2025-05-22,Camiseta,Roupas,81.94,4,0.15,278.6,Cartão de Crédito,Site,Em transporte,Recorrente,Feminino,Goiânia,GO,Centro-Oeste,2,3.0,False
+ORD100116,CUST1173,2025-05-25,Mesa Escritório,Móveis,1193.57,4,0.1,4296.85,Cartão de Crédito,Site,Em transporte,Recorrente,Não informado,Rio de Janeiro,RJ,Sudeste,11,5.0,False
+ORD100039,CUST1074,2025-05-26,Livro,Livros,75.43,2,0.05,143.32,Boleto,Site,Entregue,Recorrente,Masculino,Fortaleza,CE,Nordeste,12,5.0,False
+ORD100028,CUST1157,2025-05-27,Fone Bluetooth,Eletrônicos,273.48,2,0.15,464.92,Cartão de Crédito,Marketplace,Entregue,Recorrente,,Porto Alegre,RS,Sul,7,4.0,True
+ORD100161,CUST1098,2025-05-29,Smartphone X,Eletrônicos,2760.99,4,0.0,11043.96,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Não informado,Salvador,BA,Nordeste,7,5.0,True
+ORD100174,CUST1140,2025-05-29,Cadeira Office,Móveis,907.92,2,0.0,1815.84,Pix,Aplicativo,Cancelado,Recorrente,Masculino,São Paulo,SP,Sudeste,7,3.0,True
+ORD100270,CUST1055,2025-05-29,Café Especial,Alimentos,45.73,2,0.1,82.31,Boleto,Aplicativo,Entregue,Recorrente,Não informado,Recife,PE,Nordeste,13,4.0,False
+ORD100090,CUST1028,2025-05-29,Mouse Gamer,Eletrônicos,183.71,1,0.15,156.15,Boleto,Marketplace,Entregue,Recorrente,Feminino,São Paulo,SP,Sudeste,11,4.0,False
+ORD100152,CUST1007,2025-05-30,Mouse Gamer,Eletrônicos,178.07,1,0.0,178.07,Cartão de Débito,Aplicativo,Em transporte,Recorrente,Feminino,São Paulo,SP,Sudeste,13,5.0,False
+ORD100012,CUST1171,2025-06-01,Camiseta,Roupas,93.46,3,0.15,238.32,Boleto,Marketplace,Entregue,Recorrente,Feminino,Recife,PE,Nordeste,4,4.0,False
+ORD100194,CUST1019,2025-06-03,Mouse Gamer,Eletrônicos,190.31,1,0.05,180.79,Boleto,Aplicativo,Cancelado,Recorrente,Masculino,Fortaleza,CE,Nordeste,15,4.0,False
+ORD100078,CUST1149,2025-06-03,Monitor 27,Eletrônicos,1555.97,2,0.0,3111.94,Cartão de Débito,Aplicativo,Entregue,Novo,Feminino,Curitiba,PR,Sul,7,5.0,False
+ORD100058,CUST1108,2025-06-03,Livro,Livros,71.66,3,0.2,171.98,Pix,Marketplace,Entregue,Recorrente,Não informado,Salvador,BA,Nordeste,7,5.0,False
+ORD100030,CUST1075,2025-06-03,Teclado Mecânico,Eletrônicos,357.82,2,0.15,608.29,Cartão de Débito,Marketplace,Entregue,Novo,Masculino,São Paulo,SP,Sudeste,9,4.0,True
+ORD100245,CUST1092,2025-06-03,Jaqueta,Roupas,252.01,4,0.0,1008.04,Pix,Aplicativo,Entregue,Recorrente,Feminino,São Paulo,SP,Sudeste,7,5.0,False
+ORD100262,CUST1094,2025-06-05,Jaqueta,Roupas,296.42,1,0.05,281.6,Cartão de Débito,Aplicativo,Entregue,Novo,Não informado,São Paulo,SP,Sudeste,12,5.0,False
+ORD100202,CUST1020,2025-06-05,Mesa Escritório,Móveis,1291.16,3,0.05,3679.81,Cartão de Débito,Aplicativo,Entregue,Recorrente,Feminino,Rio de Janeiro,RJ,Sudeste,5,4.0,False
+ORD100254,CUST1118,2025-06-05,Monitor 27,Eletrônicos,1656.81,2,0.0,3313.62,Cartão de Débito,Marketplace,Em transporte,Novo,Masculino,Fortaleza,CE,Nordeste,12,3.0,True
+ORD100045,CUST1151,2025-06-05,Fone Bluetooth,Eletrônicos,239.05,1,0.05,227.1,Cartão de Crédito,Aplicativo,Em transporte,Recorrente,Masculino,Porto Alegre,RS,Sul,8,4.0,False
+ORD100243,CUST1147,2025-06-09,Cadeira Office,Móveis,915.46,3,0.0,2746.38,Pix,Aplicativo,Em transporte,Recorrente,Masculino,Porto Alegre,RS,Sul,4,4.0,True
+ORD100191,CUST1127,2025-06-10,Teclado Mecânico,Eletrônicos,336.61,1,0.05,319.78,Pix,Site,Cancelado,Recorrente,Não informado,Salvador,BA,Nordeste,10,3.0,False
+ORD100083,CUST1143,2025-06-14,Livro,Livros,66.4,1,0.05,63.08,Pix,Site,Entregue,Recorrente,Não informado,Salvador,BA,Nordeste,7,5.0,True
+ORD100274,CUST1137,2025-06-17,Mochila,Acessórios,213.94,2,0.2,342.3,Boleto,Marketplace,Entregue,Recorrente,Feminino,Recife,PE,Nordeste,13,4.0,False
+ORD100237,CUST1193,2025-06-18,Mouse Gamer,Eletrônicos,185.2,1,0.2,148.16,Cartão de Débito,Marketplace,Em transporte,Recorrente,Masculino,Fortaleza,CE,Nordeste,9,,False
+ORD100192,CUST1042,2025-06-18,Notebook Pro 15,Eletrônicos,4502.52,2,0.15,7654.28,Boleto,Aplicativo,Entregue,Novo,Feminino,São Paulo,SP,Sudeste,2,3.0,False
+ORD100268,CUST1017,2025-06-22,Fone Bluetooth,Eletrônicos,238.78,4,0.05,907.36,Cartão de Débito,Site,Entregue,Recorrente,Feminino,São Paulo,SP,Sudeste,11,4.0,False
+ORD100025,CUST1035,2025-06-22,Fone Bluetooth,Eletrônicos,229.08,1,0.15,194.72,Cartão de Débito,Site,Entregue,Recorrente,Masculino,Rio de Janeiro,RJ,Sudeste,14,5.0,True
+ORD100089,CUST1198,2025-06-22,Camiseta,Roupas,92.4,1,0.1,83.16,Cartão de Crédito,Aplicativo,Cancelado,Novo,Masculino,Salvador,BA,Nordeste,10,4.0,False
+ORD100145,CUST1171,2025-06-22,Mesa Escritório,Móveis,1100.89,2,0.1,1981.6,Pix,Marketplace,Entregue,Recorrente,Feminino,Goiânia,GO,Centro-Oeste,7,5.0,False
+ORD100043,CUST1043,2025-06-22,Livro,Livros,66.13,1,0.0,66.13,Cartão de Débito,Site,Entregue,Novo,Não informado,São Paulo,SP,Sudeste,5,2.0,False
+ORD100135,CUST1085,2025-06-24,Teclado Mecânico,Eletrônicos,346.06,4,0.15,1176.6,Pix,Site,Cancelado,Recorrente,Não informado,São Paulo,SP,Sudeste,10,4.0,True
+ORD100131,CUST1164,2025-06-24,Notebook Pro 15,Eletrônicos,4098.66,3,0.1,11066.38,Cartão de Crédito,Site,Entregue,Novo,Feminino,Recife,PE,Nordeste,8,5.0,False
+ORD100189,CUST1195,2025-06-27,Mesa Escritório,Móveis,1214.88,1,0.0,1214.88,Cartão de Crédito,Marketplace,Cancelado,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,15,4.0,False
+ORD100033,CUST1160,2025-06-28,Camiseta,Roupas,91.32,2,0.0,182.64,Boleto,Site,Entregue,Recorrente,Não informado,Goiânia,GO,Centro-Oeste,1,5.0,False
+ORD100070,CUST1134,2025-06-28,Smartphone X,Eletrônicos,2761.66,1,0.05,2623.58,Cartão de Débito,Aplicativo,Entregue,Recorrente,Não informado,Brasília,DF,Centro-Oeste,15,5.0,False
+ORD100188,CUST1079,2025-07-01,Mouse Gamer,Eletrônicos,190.34,1,0.1,171.31,Boleto,Aplicativo,Entregue,Novo,Feminino,Porto Alegre,RS,Sul,6,2.0,False
+ORD100036,CUST1011,2025-07-02,Notebook Pro 15,Eletrônicos,3990.01,2,0.0,7980.02,Cartão de Crédito,Marketplace,Cancelado,Novo,Não informado,Belo Horizonte,MG,Sudeste,9,4.0,False
+ORD100233,CUST1004,2025-07-03,Smartphone X,Eletrônicos,2541.27,2,0.1,4574.29,Cartão de Débito,Site,Entregue,Recorrente,Masculino,Curitiba,PR,Sul,12,5.0,False
+ORD100247,CUST1178,2025-07-05,Smartphone X,Eletrônicos,3029.57,2,0.05,5756.18,Boleto,Aplicativo,Em transporte,Novo,Feminino,Belo Horizonte,MG,Sudeste,12,5.0,False
+ORD100127,CUST1114,2025-07-05,Monitor 27,Eletrônicos,1693.75,4,0.0,6775.0,Pix,Site,Entregue,Recorrente,Não informado,Rio de Janeiro,RJ,Sudeste,13,4.0,False
+ORD100149,CUST1023,2025-07-07,Teclado Mecânico,Eletrônicos,344.97,1,0.0,344.97,Pix,Marketplace,Entregue,Recorrente,Masculino,Rio de Janeiro,RJ,Sudeste,6,5.0,True
+ORD100108,CUST1165,2025-07-07,Camiseta,Roupas,82.91,2,0.0,165.82,Boleto,Site,Entregue,Recorrente,Feminino,Recife,PE,Nordeste,10,4.0,False
+ORD100236,CUST1012,2025-07-08,Mesa Escritório,Móveis,1141.45,4,0.2,3652.64,Boleto,Marketplace,Cancelado,Recorrente,Masculino,Belo Horizonte,MG,Sudeste,6,5.0,False
+ORD100206,CUST1071,2025-07-09,Camiseta,Roupas,88.02,1,0.05,83.62,Boleto,Marketplace,Em transporte,Recorrente,Não informado,Porto Alegre,RS,Sul,14,4.0,True
+ORD100026,CUST1062,2025-07-09,Jaqueta,Roupas,270.38,1,0.2,216.3,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Masculino,Rio de Janeiro,RJ,Sudeste,6,4.0,True
+ORD100217,CUST1038,2025-07-11,Notebook Pro 15,Eletrônicos,4069.99,1,0.15,3459.49,Boleto,Aplicativo,Entregue,Recorrente,Não informado,Recife,PE,Nordeste,13,5.0,True
+ORD100216,CUST1176,2025-07-11,Camiseta,Roupas,87.1,2,0.0,174.2,Pix,Aplicativo,Cancelado,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,14,4.0,False
+ORD100100,CUST1152,2025-07-12,Fone Bluetooth,Eletrônicos,239.82,3,0.0,719.46,Cartão de Crédito,Aplicativo,Cancelado,Recorrente,Feminino,Salvador,BA,Nordeste,15,4.0,False
+ORD100055,CUST1095,2025-07-14,Camiseta,Roupas,87.22,2,0.1,157.0,Boleto,Site,Entregue,Recorrente,Masculino,Curitiba,PR,Sul,13,3.0,True
+ORD100272,CUST1164,2025-07-14,Chocolate,Alimentos,23.98,1,0.1,21.58,Boleto,Marketplace,Entregue,Recorrente,Não informado,Recife,PE,Nordeste,13,5.0,False
+ORD100114,CUST1026,2025-07-14,Café Especial,Alimentos,42.57,1,0.2,34.06,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Feminino,Goiânia,GO,Centro-Oeste,5,5.0,False
+ORD100225,CUST1006,2025-07-15,Notebook Pro 15,Eletrônicos,3920.16,4,0.0,15680.64,Cartão de Crédito,Site,Cancelado,Novo,Não informado,Salvador,BA,Nordeste,4,4.0,False
+ORD100094,CUST1117,2025-07-17,Notebook Pro 15,Eletrônicos,4417.59,1,0.15,3754.95,Cartão de Débito,Site,Cancelado,Recorrente,Feminino,Salvador,BA,Nordeste,12,4.0,False
+ORD100014,CUST1159,2025-07-17,Notebook Pro 15,Eletrônicos,3901.71,1,0.2,3121.37,Cartão de Débito,Marketplace,Em transporte,Recorrente,Não informado,São Paulo,SP,Sudeste,11,4.0,True
+ORD100286,CUST1062,2025-07-21,Fone Bluetooth,Eletrônicos,238.89,2,0.1,430.0,Cartão de Crédito,Site,Entregue,Recorrente,Masculino,Curitiba,PR,Sul,14,4.0,True
+ORD100261,CUST1077,2025-07-21,Livro,Livros,64.07,2,,102.51,Pix,Site,Entregue,Recorrente,Masculino,Fortaleza,CE,Nordeste,3,3.0,False
+ORD100269,CUST1058,2025-07-22,Notebook Pro 15,Eletrônicos,4598.47,1,0.15,3908.7,Cartão de Crédito,Site,Entregue,Novo,Masculino,Fortaleza,CE,Nordeste,1,3.0,False
+ORD100257,CUST1155,2025-07-24,Monitor 27,Eletrônicos,1513.04,1,0.15,1286.08,Boleto,Marketplace,Entregue,Recorrente,Masculino,Salvador,BA,Nordeste,4,5.0,False
+ORD100046,CUST1160,2025-07-31,Jaqueta,Roupas,307.23,1,0.1,276.51,Cartão de Crédito,Site,Entregue,Novo,Masculino,Brasília,DF,Centro-Oeste,3,5.0,False
+ORD100234,CUST1160,2025-08-04,Tênis Esportivo,Roupas,379.35,3,0.0,1138.05,Boleto,Marketplace,Entregue,Recorrente,Não informado,Goiânia,GO,Centro-Oeste,9,4.0,False
+ORD100035,CUST1119,2025-08-05,Monitor 27,Eletrônicos,1641.26,2,0.0,3282.52,Cartão de Crédito,Site,Cancelado,Novo,Masculino,Fortaleza,CE,Nordeste,5,5.0,False
+ORD100031,CUST1143,2025-08-06,Livro,Livros,76.71,3,0.2,184.1,Pix,Site,Cancelado,Recorrente,Feminino,São Paulo,SP,Sudeste,14,4.0,False
+ORD100111,CUST1067,2025-08-07,Jaqueta,Roupas,304.48,2,0.2,487.17,Cartão de Débito,Site,Em transporte,Recorrente,Masculino,Brasília,DF,Centro-Oeste,1,5.0,True
+ORD100287,CUST1081,2025-08-07,Mouse Gamer,Eletrônicos,176.53,2,0.1,317.75,Cartão de Crédito,Marketplace,Cancelado,Recorrente,Não informado,Fortaleza,CE,Nordeste,10,4.0,False
+ORD100124,CUST1172,2025-08-09,Café Especial,Alimentos,42.47,2,0.05,80.69,Boleto,Site,Em transporte,Recorrente,Não informado,Recife,PE,Nordeste,12,5.0,False
+ORD100162,CUST1051,2025-08-09,Monitor 27,Eletrônicos,1514.45,4,0.0,6057.8,Cartão de Débito,Aplicativo,Em transporte,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,15,5.0,False
+ORD100023,CUST1024,2025-08-11,Café Especial,Alimentos,43.35,4,0.0,173.4,Pix,Aplicativo,Entregue,Recorrente,Masculino,Brasília,DF,Centro-Oeste,8,4.0,False
+ORD100086,CUST1127,2025-08-12,Jaqueta,Roupas,283.68,1,0.0,283.68,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Feminino,Salvador,BA,Nordeste,14,5.0,False
+ORD100113,CUST1173,2025-08-14,Livro,Livros,63.01,1,0.0,63.01,Cartão de Crédito,Site,Entregue,Recorrente,Feminino,Belo Horizonte,MG,Sudeste,9,3.0,False
+ORD100169,CUST1158,2025-08-16,Mesa Escritório,Móveis,1202.06,1,0.15,1021.75,Boleto,Marketplace,Entregue,Recorrente,Não informado,Belo Horizonte,MG,Sudeste,3,,True
+ORD100154,CUST1083,2025-08-19,Mouse Gamer,Eletrônicos,170.77,2,0.1,307.39,Cartão de Débito,Site,Cancelado,Novo,Masculino,Brasília,DF,Centro-Oeste,4,5.0,True
+ORD100037,CUST1099,2025-08-21,Monitor 27,Eletrônicos,1726.57,3,0.15,4402.75,Boleto,Site,Entregue,Recorrente,Masculino,Recife,PE,Nordeste,15,5.0,False
+ORD100060,CUST1066,2025-08-21,Mochila,Acessórios,218.85,2,0.1,393.93,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Não informado,São Paulo,SP,Sudeste,6,5.0,False
+ORD100120,CUST1032,2025-08-21,Tênis Esportivo,Roupas,347.5,1,0.1,312.75,Cartão de Crédito,Aplicativo,Entregue,Novo,Feminino,Salvador,BA,Nordeste,4,4.0,True
+ORD100258,CUST1021,2025-08-21,Teclado Mecânico,Eletrônicos,360.12,2,0.0,720.24,Cartão de Crédito,Marketplace,Em transporte,Recorrente,Não informado,Salvador,BA,Nordeste,10,5.0,False
+ORD100054,CUST1125,2025-08-23,Monitor 27,Eletrônicos,1638.66,2,0.0,3277.32,Boleto,Marketplace,Entregue,Recorrente,Não informado,Salvador,BA,Nordeste,9,4.0,False
+ORD100222,CUST1162,2025-08-23,Fone Bluetooth,Eletrônicos,259.74,1,0.0,259.74,Cartão de Crédito,Marketplace,Em transporte,Novo,Não informado,Salvador,BA,Nordeste,10,5.0,False
+ORD100091,CUST1035,2025-08-27,Smartphone X,Eletrônicos,2595.6,4,0.2,8305.92,Cartão de Débito,Marketplace,Entregue,Recorrente,Não informado,Porto Alegre,RS,Sul,1,4.0,False
+ORD100218,CUST1188,2025-08-28,Mesa Escritório,Móveis,1251.37,2,0.15,2127.33,Cartão de Crédito,Site,Em transporte,Recorrente,Não informado,Belo Horizonte,MG,Sudeste,12,5.0,True
+ORD100271,CUST1083,2025-08-30,Cadeira Office,Móveis,947.36,2,0.15,1610.51,Cartão de Débito,Site,Entregue,Novo,Feminino,Fortaleza,CE,Nordeste,3,5.0,True
+ORD100147,CUST1182,2025-08-30,Monitor 27,Eletrônicos,1470.57,1,0.0,1470.57,Cartão de Crédito,Marketplace,Em transporte,Novo,Não informado,Porto Alegre,RS,Sul,12,5.0,True
+ORD100167,CUST1009,2025-08-30,Mochila,Acessórios,201.36,1,0.1,181.22,Pix,Site,Entregue,Recorrente,Não informado,São Paulo,SP,Sudeste,7,5.0,False
+ORD100156,CUST1100,2025-09-01,Smartphone X,Eletrônicos,2960.31,3,0.05,8436.88,Pix,Marketplace,Em transporte,Novo,Masculino,Porto Alegre,RS,Sul,6,5.0,False
+ORD100185,CUST1050,2025-09-02,Chocolate,Alimentos,25.09,2,0.2,40.14,Boleto,Aplicativo,Cancelado,Recorrente,Masculino,Curitiba,PR,Sul,10,5.0,False
+ORD100264,CUST1161,2025-09-04,Camiseta,Roupas,88.11,1,0.05,83.7,Cartão de Débito,Site,Entregue,Recorrente,Masculino,Rio de Janeiro,RJ,Sudeste,4,4.0,False
+ORD100273,CUST1180,2025-09-05,Mesa Escritório,Móveis,1203.76,2,0.05,2287.14,Cartão de Débito,Marketplace,Entregue,Novo,Feminino,Fortaleza,CE,Nordeste,15,3.0,False
+ORD100293,CUST1146,2025-09-05,Livro,Livros,73.13,2,0.05,138.95,Cartão de Débito,Site,Entregue,Recorrente,Feminino,Goiânia,GO,Centro-Oeste,9,4.0,False
+ORD100155,CUST1001,2025-09-06,Notebook Pro 15,Eletrônicos,4082.51,1,0.15,3470.13,Cartão de Crédito,Site,Cancelado,Recorrente,Não informado,Porto Alegre,RS,Sul,4,,False
+ORD100112,CUST1163,2025-09-08,Tênis Esportivo,Roupas,408.24,1,0.0,408.24,Boleto,Site,Cancelado,Recorrente,Não informado,Salvador,BA,Nordeste,13,1.0,True
+ORD100041,CUST1069,2025-09-09,Monitor 27,Eletrônicos,1629.4,4,0.0,6517.6,Boleto,Marketplace,Em transporte,Novo,Masculino,São Paulo,SP,Sudeste,7,4.0,False
+ORD100181,CUST1119,2025-09-11,Fone Bluetooth,Eletrônicos,253.07,2,0.0,506.14,Cartão de Débito,Aplicativo,Em transporte,Recorrente,Masculino,Salvador,BA,Nordeste,3,4.0,False
+ORD100073,CUST1010,2025-09-11,Monitor 27,Eletrônicos,1631.69,1,0.05,1550.11,Pix,Aplicativo,Em transporte,Recorrente,Não informado,Goiânia,GO,Centro-Oeste,15,4.0,False
+ORD100082,CUST1066,2025-09-12,Cadeira Office,Móveis,883.44,4,0.15,3003.7,Cartão de Crédito,Aplicativo,Entregue,Novo,Não informado,Rio de Janeiro,RJ,Sudeste,5,3.0,False
+ORD100085,CUST1165,2025-09-13,Livro,Livros,74.63,1,0.1,67.17,Pix,Site,Cancelado,Recorrente,Feminino,Rio de Janeiro,RJ,Sudeste,12,4.0,False
+ORD100165,CUST1051,2025-09-13,Monitor 27,Eletrônicos,1615.35,1,0.0,1615.35,Boleto,Site,Cancelado,Recorrente,,São Paulo,SP,Sudeste,4,5.0,True
+ORD100079,CUST1070,2025-09-14,Monitor 27,Eletrônicos,1611.22,3,0.1,4350.29,Cartão de Débito,Site,Entregue,Recorrente,Não informado,Curitiba,PR,Sul,3,4.0,False
+ORD100080,CUST1017,2025-09-14,Chocolate,Alimentos,24.86,2,0.15,42.26,Pix,Marketplace,Entregue,Recorrente,Masculino,São Paulo,SP,Sudeste,2,4.0,False
+ORD100075,CUST1010,2025-09-14,Livro,Livros,64.08,1,0.2,51.26,Pix,Site,Entregue,Novo,Masculino,Fortaleza,CE,Nordeste,14,3.0,False
+ORD100175,CUST1012,2025-09-15,Mouse Gamer,Eletrônicos,195.75,1,0.0,195.75,Cartão de Crédito,Site,Cancelado,Recorrente,Não informado,Curitiba,PR,Sul,2,4.0,False
+ORD100109,CUST1099,2025-09-15,Tênis Esportivo,Roupas,398.51,1,0.15,338.73,Pix,Site,Entregue,Novo,Não informado,Fortaleza,CE,Nordeste,2,4.0,False
+ORD100198,CUST1108,2025-09-16,Monitor 27,Eletrônicos,1541.36,2,0.0,3082.72,Boleto,Aplicativo,Entregue,Recorrente,Masculino,Curitiba,PR,Sul,1,5.0,True
+ORD100180,CUST1037,2025-09-17,Mouse Gamer,Eletrônicos,185.87,1,0.15,157.99,Cartão de Débito,Site,Cancelado,Novo,Feminino,Belo Horizonte,MG,Sudeste,7,5.0,False
+ORD100177,CUST1107,2025-09-18,Teclado Mecânico,Eletrônicos,315.65,1,0.0,315.65,Boleto,Site,Entregue,Recorrente,Não informado,Salvador,BA,Nordeste,10,5.0,True
+ORD100072,CUST1135,2025-09-18,Mouse Gamer,Eletrônicos,176.3,2,0.1,317.34,Cartão de Crédito,Marketplace,Cancelado,Recorrente,Feminino,Goiânia,GO,Centro-Oeste,2,1.0,False
+ORD100107,CUST1032,2025-09-19,Fone Bluetooth,Eletrônicos,252.19,1,0.0,252.19,Cartão de Débito,Marketplace,Cancelado,Recorrente,Feminino,Fortaleza,CE,Nordeste,11,5.0,False
+ORD100034,CUST1089,2025-09-21,Jaqueta,Roupas,286.62,2,0.05,544.58,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Masculino,Rio de Janeiro,RJ,Sudeste,14,5.0,True
+ORD100099,CUST1120,2025-09-23,Café Especial,Alimentos,45.73,2,0.0,91.46,Pix,Site,Em transporte,Recorrente,Não informado,Brasília,DF,Centro-Oeste,4,5.0,True
+ORD100130,CUST1092,2025-09-23,Mesa Escritório,Móveis,1292.09,2,0.05,2454.97,Cartão de Débito,Aplicativo,Entregue,Novo,Feminino,Goiânia,GO,Centro-Oeste,5,4.0,False
+ORD100210,CUST1034,2025-09-24,Café Especial,Alimentos,48.04,1,0.15,40.83,Cartão de Débito,Aplicativo,Em transporte,Recorrente,Feminino,Curitiba,PR,Sul,15,5.0,True
+ORD100007,CUST1071,2025-09-25,Camiseta,Roupas,83.09,1,0.0,83.09,Pix,Site,Entregue,Recorrente,Não informado,Brasília,DF,Centro-Oeste,7,5.0,False
+ORD100214,CUST1060,2025-09-25,Cadeira Office,Móveis,855.79,3,0.2,2053.9,Pix,Aplicativo,Entregue,Recorrente,Não informado,Curitiba,PR,Sul,12,4.0,False
+ORD100242,CUST1157,2025-09-26,Cadeira Office,Móveis,961.6,2,0.15,1634.72,Cartão de Crédito,Marketplace,Entregue,Novo,Não informado,Curitiba,PR,Sul,9,5.0,True
+ORD100283,CUST1113,2025-09-29,Mouse Gamer,Eletrônicos,164.55,1,0.15,139.87,Boleto,Marketplace,Entregue,Recorrente,Masculino,Belo Horizonte,MG,Sudeste,4,5.0,True
+ORD100117,CUST1198,2025-09-30,Fone Bluetooth,Eletrônicos,255.83,2,0.0,511.66,Pix,Site,Entregue,Recorrente,Feminino,Brasília,DF,Centro-Oeste,12,2.0,False
+ORD100093,CUST1011,2025-10-02,Fone Bluetooth,Eletrônicos,259.73,2,0.1,467.51,Cartão de Crédito,Marketplace,Entregue,Recorrente,Feminino,Rio de Janeiro,RJ,Sudeste,13,5.0,False
+ORD100133,CUST1011,2025-10-03,Teclado Mecânico,Eletrônicos,322.23,1,0.15,273.9,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Não informado,Brasília,DF,Centro-Oeste,11,1.0,True
+ORD100001,CUST1191,2025-10-04,Fone Bluetooth,Eletrônicos,261.1,2,0.0,522.2,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Feminino,Curitiba,PR,Sul,12,1.0,False
+ORD100138,CUST1081,2025-10-06,Smartphone X,Eletrônicos,2893.85,3,0.1,7813.4,Boleto,Site,Entregue,Recorrente,Feminino,Curitiba,PR,Sul,8,4.0,False
+ORD100095,CUST1150,2025-10-09,Café Especial,Alimentos,45.79,4,0.0,183.16,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Não informado,Fortaleza,CE,Nordeste,14,3.0,False
+ORD100200,CUST1127,2025-10-10,Teclado Mecânico,Eletrônicos,376.73,2,0.1,678.11,Cartão de Crédito,Site,Entregue,Recorrente,Feminino,Rio de Janeiro,RJ,Sudeste,4,5.0,False
+ORD100011,CUST1128,2025-10-10,Chocolate,Alimentos,24.28,4,0.1,87.41,Pix,Site,Entregue,Recorrente,Feminino,Fortaleza,CE,Nordeste,9,4.0,True
+ORD100232,CUST1007,2025-10-11,Mesa Escritório,Móveis,1190.75,1,0.0,1190.75,Cartão de Crédito,Site,Cancelado,Novo,Masculino,Curitiba,PR,Sul,3,3.0,False
+ORD100106,CUST1175,2025-10-11,Mesa Escritório,Móveis,1099.45,1,0.0,1099.45,Cartão de Crédito,Site,Em transporte,Novo,Masculino,Brasília,DF,Centro-Oeste,8,5.0,False
+ORD100160,CUST1150,2025-10-14,Jaqueta,Roupas,286.7,2,0.05,544.73,Boleto,Site,Em transporte,Recorrente,Masculino,Curitiba,PR,Sul,10,4.0,False
+ORD100173,CUST1171,2025-10-15,Chocolate,Alimentos,27.22,1,0.0,27.22,Boleto,Aplicativo,Em transporte,Novo,Feminino,Fortaleza,CE,Nordeste,3,5.0,True
+ORD100050,CUST1112,2025-10-15,Notebook Pro 15,Eletrônicos,3954.07,2,0.15,6721.92,Pix,Marketplace,Entregue,Recorrente,Não informado,Belo Horizonte,MG,Sudeste,10,4.0,False
+ORD100136,CUST1045,2025-10-16,Smartphone X,Eletrônicos,2537.02,1,0.0,2537.02,Cartão de Crédito,Marketplace,Entregue,Recorrente,Masculino,São Paulo,SP,Sudeste,5,5.0,False
+ORD100158,CUST1053,2025-10-16,Monitor 27,Eletrônicos,1624.05,1,0.0,1624.05,Cartão de Débito,Marketplace,Cancelado,Recorrente,Feminino,Rio de Janeiro,RJ,Sudeste,14,5.0,False
+ORD100071,CUST1154,2025-10-16,Cadeira Office,Móveis,945.43,2,0.2,1512.69,Pix,Aplicativo,Cancelado,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,5,5.0,True
+ORD100068,CUST1029,2025-10-18,Mouse Gamer,Eletrônicos,189.02,1,0.0,189.02,Cartão de Crédito,Site,Em transporte,Novo,Não informado,Salvador,BA,Nordeste,11,5.0,False
+ORD100238,CUST1064,2025-10-19,Smartphone X,Eletrônicos,2570.29,1,0.0,2570.29,Cartão de Crédito,Site,Entregue,Novo,Não informado,Salvador,BA,Nordeste,5,1.0,False
+ORD100226,CUST1112,2025-10-21,Smartphone X,Eletrônicos,2749.39,1,0.05,2611.92,Cartão de Débito,Site,Entregue,Recorrente,Masculino,Belo Horizonte,MG,Sudeste,4,5.0,False
+ORD100101,CUST1197,2025-10-22,Jaqueta,Roupas,266.5,2,0.15,453.05,Cartão de Débito,Marketplace,Em transporte,Recorrente,Não informado,Fortaleza,CE,Nordeste,14,5.0,True
+ORD100288,CUST1182,2025-10-22,Smartphone X,Eletrônicos,3062.38,1,0.2,2449.9,Boleto,Site,Entregue,Recorrente,Masculino,Salvador,BA,Nordeste,4,4.0,True
+ORD100005,CUST1189,2025-10-23,Chocolate,Alimentos,23.48,3,0.2,56.35,Cartão de Crédito,Site,Entregue,Recorrente,Não informado,Goiânia,GO,Centro-Oeste,5,5.0,False
+ORD100123,CUST1126,2025-10-24,Monitor 27,Eletrônicos,1584.74,1,0.2,1267.79,Cartão de Débito,Aplicativo,Entregue,Recorrente,Não informado,Curitiba,PR,Sul,2,2.0,True
+ORD100064,CUST1172,2025-10-27,Mochila,Acessórios,223.15,4,0.05,847.97,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Masculino,Rio de Janeiro,RJ,Sudeste,4,4.0,False
+ORD100151,CUST1066,2025-10-27,Jaqueta,Roupas,287.85,2,0.05,546.92,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Masculino,Brasília,DF,Centro-Oeste,6,2.0,False
+ORD100291,CUST1027,2025-10-28,Teclado Mecânico,Eletrônicos,364.08,3,0.1,983.02,Cartão de Débito,Marketplace,Entregue,Novo,Feminino,Salvador,BA,Nordeste,4,5.0,True
+ORD100121,CUST1105,2025-11-01,Mouse Gamer,Eletrônicos,186.95,1,0.2,149.56,Cartão de Débito,Marketplace,Entregue,Novo,Não informado,Porto Alegre,RS,Sul,11,2.0,False
+ORD100076,CUST1174,2025-11-05,Notebook Pro 15,Eletrônicos,4276.67,4,0.05,16251.35,Cartão de Crédito,Aplicativo,Cancelado,Recorrente,Feminino,Curitiba,PR,Sul,5,5.0,True
+ORD100019,CUST1193,2025-11-06,Chocolate,Alimentos,22.53,1,0.0,22.53,Boleto,Site,Entregue,Novo,Feminino,Recife,PE,Nordeste,4,4.0,True
+ORD100263,CUST1018,2025-11-07,Tênis Esportivo,Roupas,376.88,2,0.05,716.07,Pix,Aplicativo,Entregue,Recorrente,Masculino,Recife,PE,Nordeste,6,3.0,False
+ORD100299,CUST1128,2025-11-07,Mouse Gamer,Eletrônicos,179.68,2,0.05,341.39,Boleto,Aplicativo,Em transporte,Recorrente,Masculino,Porto Alegre,RS,Sul,9,4.0,True
+ORD100215,CUST1083,2025-11-08,Café Especial,Alimentos,46.0,1,0.2,36.8,Cartão de Crédito,Site,Cancelado,Novo,Masculino,São Paulo,SP,Sudeste,1,,True
+ORD100179,CUST1069,2025-11-08,Smartphone X,Eletrônicos,2703.08,1,0.1,2432.77,Boleto,Site,Entregue,Recorrente,Não informado,Brasília,DF,Centro-Oeste,13,5.0,False
+ORD100183,CUST1046,2025-11-09,Notebook Pro 15,Eletrônicos,3832.54,4,0.1,13797.14,Cartão de Débito,Aplicativo,Em transporte,Novo,Feminino,Rio de Janeiro,RJ,Sudeste,1,5.0,False
+ORD100139,CUST1146,2025-11-12,Teclado Mecânico,Eletrônicos,342.73,2,0.0,685.46,Cartão de Crédito,Site,Cancelado,Novo,,São Paulo,SP,Sudeste,1,4.0,True
+ORD100021,CUST1196,2025-11-13,Camiseta,Roupas,92.61,2,0.2,148.18,Cartão de Débito,Marketplace,Entregue,Recorrente,Não informado,Rio de Janeiro,RJ,Sudeste,1,2.0,False
+ORD100042,CUST1147,2025-11-13,Cadeira Office,Móveis,882.94,2,0.15,1501.0,Boleto,Site,Entregue,Recorrente,Feminino,Belo Horizonte,MG,Sudeste,3,5.0,False
+ORD100122,CUST1091,2025-11-14,Cadeira Office,Móveis,966.77,1,0.1,870.09,Cartão de Débito,Aplicativo,Entregue,Recorrente,Não informado,Recife,PE,Nordeste,15,3.0,False
+ORD100061,CUST1025,2025-11-16,Notebook Pro 15,Eletrônicos,4063.46,1,0.0,4063.46,Pix,Marketplace,Em transporte,Recorrente,Não informado,Belo Horizonte,MG,Sudeste,13,4.0,False
+ORD100118,CUST1017,2025-11-16,Teclado Mecânico,Eletrônicos,325.47,1,0.15,276.65,Pix,Aplicativo,Cancelado,Recorrente,Não informado,Rio de Janeiro,RJ,Sudeste,6,4.0,False
+ORD100066,CUST1083,2025-11-17,Teclado Mecânico,Eletrônicos,329.12,1,0.1,296.21,Boleto,Site,Entregue,Novo,Feminino,Porto Alegre,RS,Sul,9,5.0,False
+ORD100259,CUST1094,2025-11-17,Camiseta,Roupas,95.6,1,0.15,81.26,Cartão de Crédito,Marketplace,Em transporte,Recorrente,Masculino,Belo Horizonte,MG,Sudeste,8,5.0,False
+ORD100289,CUST1033,2025-11-19,Jaqueta,Roupas,288.32,2,0.05,547.81,Pix,Marketplace,Cancelado,Recorrente,Masculino,Belo Horizonte,MG,Sudeste,9,5.0,False
+ORD100142,CUST1014,2025-11-20,Cadeira Office,Móveis,927.84,2,0.0,1855.68,Cartão de Crédito,Site,Entregue,Recorrente,Não informado,Brasília,DF,Centro-Oeste,2,3.0,False
+ORD100211,CUST1188,2025-11-20,Teclado Mecânico,Eletrônicos,366.63,2,0.0,733.26,Boleto,Site,Entregue,Recorrente,Feminino,Belo Horizonte,MG,Sudeste,8,4.0,False
+ORD100184,CUST1089,2025-11-21,Livro,Livros,73.46,4,0.2,235.07,Cartão de Crédito,Site,Entregue,Recorrente,Masculino,Curitiba,PR,Sul,3,1.0,True
+ORD100110,CUST1162,2025-11-22,Notebook Pro 15,Eletrônicos,4312.56,1,0.0,4312.56,Boleto,Aplicativo,Cancelado,Recorrente,Masculino,Recife,PE,Nordeste,9,5.0,True
+ORD100104,CUST1088,2025-11-25,Chocolate,Alimentos,23.62,1,0.05,22.44,Cartão de Débito,Aplicativo,Cancelado,Novo,Masculino,São Paulo,SP,Sudeste,11,5.0,True
+ORD100102,CUST1109,2025-11-26,Monitor 27,Eletrônicos,1708.1,1,0.1,1537.29,Boleto,Aplicativo,Cancelado,Novo,Masculino,Goiânia,GO,Centro-Oeste,9,3.0,False
+ORD100193,CUST1065,2025-11-26,Notebook Pro 15,Eletrônicos,4574.39,2,0.15,7776.46,Pix,Marketplace,Entregue,Novo,Não informado,Fortaleza,CE,Nordeste,6,4.0,False
+ORD100062,CUST1093,2025-11-27,Teclado Mecânico,Eletrônicos,340.57,2,0.2,544.91,Pix,Aplicativo,Em transporte,Recorrente,Não informado,Curitiba,PR,Sul,8,5.0,True
+ORD100256,CUST1159,2025-11-27,Teclado Mecânico,Eletrônicos,374.29,2,0.1,673.72,Cartão de Débito,Site,Entregue,Recorrente,Feminino,Goiânia,GO,Centro-Oeste,8,4.0,False
+ORD100209,CUST1186,2025-11-30,Monitor 27,Eletrônicos,1463.76,3,0.05,4171.72,Pix,Site,Entregue,Recorrente,Não informado,Recife,PE,Nordeste,4,5.0,False
+ORD100067,CUST1177,2025-11-30,Cadeira Office,Móveis,963.13,3,0.0,2889.39,Cartão de Crédito,Marketplace,Em transporte,Novo,Masculino,Belo Horizonte,MG,Sudeste,12,4.0,False
+ORD100297,CUST1136,2025-12-04,Mochila,Acessórios,214.21,1,0.1,192.79,Cartão de Débito,Marketplace,Cancelado,Novo,Masculino,Porto Alegre,RS,Sul,13,5.0,False
+ORD100295,CUST1015,2025-12-04,Café Especial,Alimentos,45.96,1,0.2,36.77,Pix,Marketplace,Entregue,Recorrente,Masculino,Rio de Janeiro,RJ,Sudeste,6,4.0,False
+ORD100052,CUST1097,2025-12-04,Fone Bluetooth,Eletrônicos,274.02,3,,739.85,Pix,Marketplace,Entregue,Recorrente,Não informado,Porto Alegre,RS,Sul,15,5.0,False
+ORD100281,CUST1058,2025-12-05,Tênis Esportivo,Roupas,375.26,3,0.0,1125.78,Pix,Site,Em transporte,Novo,Feminino,São Paulo,SP,Sudeste,8,2.0,False
+ORD100134,CUST1037,2025-12-06,Café Especial,Alimentos,44.9,4,0.05,170.62,Boleto,Aplicativo,Em transporte,Novo,Masculino,Recife,PE,Nordeste,10,5.0,True
+ORD100219,CUST1174,2025-12-06,Camiseta,Roupas,95.93,3,0.15,244.62,Pix,Aplicativo,Entregue,Recorrente,Masculino,Porto Alegre,RS,Sul,1,4.0,False
+ORD100141,CUST1175,2025-12-09,Smartphone X,Eletrônicos,2786.95,4,0.1,10033.02,Pix,Aplicativo,Entregue,Recorrente,Não informado,Brasília,DF,Centro-Oeste,11,1.0,True
+ORD100275,CUST1168,2025-12-09,Mouse Gamer,Eletrônicos,170.07,2,0.1,306.13,Pix,Aplicativo,Em transporte,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,5,5.0,False
+ORD100129,CUST1122,2025-12-11,Mouse Gamer,Eletrônicos,185.85,4,0.0,743.4,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Feminino,Salvador,BA,Nordeste,5,4.0,False
+ORD100003,CUST1008,2025-12-12,Smartphone X,Eletrônicos,2835.44,1,0.1,2551.9,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Não informado,Goiânia,GO,Centro-Oeste,12,3.0,False
+ORD100077,CUST1161,2025-12-13,Monitor 27,Eletrônicos,1735.35,1,0.05,1648.58,Cartão de Crédito,Marketplace,Entregue,Recorrente,Não informado,Recife,PE,Nordeste,3,4.0,False
+ORD100097,CUST1003,2025-12-15,Teclado Mecânico,Eletrônicos,355.07,1,0.1,319.56,Pix,Site,Entregue,Novo,Masculino,Salvador,BA,Nordeste,1,5.0,False
+ORD100022,CUST1023,2025-12-15,Chocolate,Alimentos,26.24,3,0.05,74.78,Cartão de Crédito,Aplicativo,Cancelado,Novo,Não informado,Brasília,DF,Centro-Oeste,3,5.0,True
+ORD100280,CUST1031,2025-12-18,Livro,Livros,68.33,1,0.0,68.33,Cartão de Débito,Aplicativo,Em transporte,Novo,Não informado,Porto Alegre,RS,Sul,11,5.0,True
+ORD100069,CUST1124,2025-12-19,Mochila,Acessórios,233.93,1,0.0,233.93,Boleto,Marketplace,Entregue,Recorrente,Feminino,Fortaleza,CE,Nordeste,9,4.0,False
+ORD100150,CUST1135,2025-12-19,Chocolate,Alimentos,25.48,2,0.0,50.96,Boleto,Aplicativo,Entregue,Novo,Não informado,Goiânia,GO,Centro-Oeste,4,4.0,False
+ORD100230,CUST1041,2025-12-20,Café Especial,Alimentos,48.05,2,0.05,91.29,Cartão de Débito,Site,Entregue,Recorrente,Masculino,Curitiba,PR,Sul,1,4.0,False
+ORD100074,CUST1170,2025-12-22,Tênis Esportivo,Roupas,388.47,3,0.0,1165.41,Cartão de Débito,Site,Em transporte,Recorrente,Feminino,Salvador,BA,Nordeste,8,5.0,False
+ORD100182,CUST1116,2025-12-22,Notebook Pro 15,Eletrônicos,4406.58,3,0.15,11236.78,Cartão de Débito,Marketplace,Entregue,Recorrente,Feminino,Belo Horizonte,MG,Sudeste,4,3.0,False
+ORD100081,CUST1054,2025-12-25,Chocolate,Alimentos,23.41,1,0.1,21.07,Boleto,Aplicativo,Cancelado,Recorrente,Não informado,Curitiba,PR,Sul,14,4.0,False
+ORD100249,CUST1047,2025-12-25,Fone Bluetooth,Eletrônicos,227.41,2,0.15,386.6,Cartão de Débito,Site,Cancelado,Recorrente,Não informado,Belo Horizonte,MG,Sudeste,2,5.0,False
+ORD100235,CUST1134,2025-12-31,Teclado Mecânico,Eletrônicos,357.15,2,0.05,678.58,Boleto,Marketplace,Em transporte,Novo,Feminino,Rio de Janeiro,RJ,Sudeste,1,5.0,True
+ORD100276,CUST1038,2025-01-16,Chocolate,Alimentos,27.5,3,0.05,78.38,Cartão de Débito,Aplicativo,Em transporte,Novo,Masculino,Recife,PE,Nordeste,5,3.0,False
+ORD100227,CUST1066,2025-03-16,Livro,Livros,76.61,1,0.15,65.12,Cartão de Crédito,Aplicativo,Entregue,Recorrente,Masculino,Goiânia,GO,Centro-Oeste,6,5.0,False
+ORD100016,CUST1160,2025-05-08,Fone Bluetooth,Eletrônicos,242.43,1,0.05,230.31,Boleto,Aplicativo,Em transporte,Recorrente,Feminino,Fortaleza,CE,Nordeste,11,4.0,True
